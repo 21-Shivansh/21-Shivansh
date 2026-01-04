@@ -47,12 +47,11 @@ I focus on **clean code, performance optimization, and smooth UI/UX**.
 ![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
 
-
 ---
 
 ## 🚀 Projects
 
-### 💎 Jewellery Website (Full Stack)
+### 💎 Jewellery Website (Luna d'Oro)
 **Tech Stack:** React, Node.js, Express, MongoDB  
 
 - 🛍️ Built a complete **full-stack e-commerce jewellery website**
@@ -60,7 +59,9 @@ I focus on **clean code, performance optimization, and smooth UI/UX**.
 - 🔍 Product filtering & smooth user experience
 - 📱 Fully responsive & performance optimized  
 
-🔗 *Project link coming soon*
+🔗 **Live Links:**  
+- **Admin Panel:** [jewellery-project-admin.vercel.app](https://jewellery-project-admin.vercel.app/)  
+- **Website:** [jewellery-project-frontend.vercel.app](https://jewellery-project-frontend.vercel.app/)
 
 ---
 
@@ -87,8 +88,9 @@ I focus on **clean code, performance optimization, and smooth UI/UX**.
 
 ## 📫 Connect With Me
 
-- 📧 Email: **shivanshsingh2111@gmail.com**
-- 💻 GitHub: [github.com/21-Shivansh](https://github.com/21-Shivansh)
+- 📧 Email: **shivanshsingh2111@gmail.com**  
+- 💻 GitHub: [github.com/21-Shivansh](https://github.com/21-Shivansh)  
+- 💼 LinkedIn: [linkedin.com/in/shivanshsingh21](https://www.linkedin.com/in/shivanshsingh21)
 
 ---
 
